@@ -33,26 +33,6 @@ Tabela matricial hierárquica (Tipo/Componente/Ano) para análise temporal.   Us
 ![Image](https://github.com/user-attachments/assets/c164942d-5bcf-42c1-9c8b-dda631249243)
 
 
-### 3. Projeto 3 - Dashboard Analítico de vendas Globais
-
-Este laboratório utiliza dados de vendas de uma empresa fictícia que comercializa produtos globalmente.
-
-O Dashboard desenvolvido deve ser capaz de responder às seguintes questões de negócios, atendendo às especificações a seguir:
-
-- Pergunta 1 - Qual o valor total vendido?
-
-- Pergunta 2 - Quantas vendas foram realizadas por categoria de produto?
-
-- Pergunta 3 - Quantas vendas foram realizadas por país, considerando a prioridade de entrega?
-
-- Pergunta 4 - Qual foi a média de desconto aplicada nas vendas por subcategoria de produto?
-
-- Pergunta 5 - Quais países apresentaram a maior média de valor de venda? Essa informação deve ser exibida em um mapa.
-
-Além disso, o Dashboard deve me permitir filtrar os dados por ano, segmento e país, proporcionando uma análise mais detalhada e personalizada.
-
- ![Image](https://github.com/user-attachments/assets/7d5f447e-957f-44ee-a885-4a86ff088066)
-
 ### 4. Projeto 4 - Análise de campanhas de Marketing
 Neste Projeto, tive a oportunidade de realizar uma introdução prática à análise de campanhas de Marketing utilizando o Power BI. Desenvolvi quatro dashboards interativos, com mais de dez elementos visuais, além de realizar diversas customizações, formatações e ajustes nos dados. Ao longo do projeto, explorei diferentes recursos do Power BI para otimizar a visualização e análise das informações. Os dados utilizados foram previamente preparados e representam informações sobre clientes e campanhas de Marketing de uma empresa fictícia.
 
