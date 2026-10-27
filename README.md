@@ -37,7 +37,7 @@ Tabela matricial hierárquica (Tipo/Componente/Ano) para análise temporal.   Us
 
 > **Objetivo:** Desenvolvi um painel financeiro consolidado no Power BI para analisar o desempenho operacional de cinco grandes instituições bancárias (Nubank, Safra, Santander, Bradesco e Itaú), permitindo o acompanhamento de receitas, despesas, tributação e lucratividade ao longo do ano.
 
-#### 🛠️ Funcionalidades e Etapas TécnicasModelagem de Dados & DAX: Criei medidas calculadas para consolidar as métricas essenciais e os KPIs executivos de receita, despesa, impostos e margem de lucro.
+#### 🛠️ Funcionalidades e Etapas TécnicasModelagem de Dados & DAX:
 Design & Análise Visual:
 
 * **Modelagem de Dados & DAX:** Criei medidas calculadas para consolidar as métricas essenciais e os KPIs executivos de receita, despesa, impostos e margem de lucro.
