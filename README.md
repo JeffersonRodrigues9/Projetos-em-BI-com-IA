@@ -16,8 +16,8 @@ O objetivo deste portfólio é demonstrar a aplicação prática da Análise de 
 
 ## Business Intelligence
 
-### 📈 Projeto 1: Dashboard de Análise Financeira & PerformanceObjetivo
-Transformar dados financeiros brutos e desestruturados num painel interativo no Power BI para suporte ao planeamento estratégico de receitas, despesas e margem de lucro.
+### 📈 Projeto 1: Dashboard de Análise Financeira & Performance
+Objetivo: Transformar dados financeiros brutos e desestruturados num painel interativo no Power BI para suporte ao planeamento estratégico de receitas, despesas e margem de lucro.
 
 🛠️ Funcionalidades e Etapas TécnicasETL & Tratamento de Dados (Power Query): Limpeza, unpivot (pivotação de colunas), padronização de layouts e estruturação de tabelas para análise.Modelagem de Dados & DAX: Criação de modelo relacional e desenvolvimento de medidas em DAX para cálculo de indicadores-chave (KPIs) de performance:
 
