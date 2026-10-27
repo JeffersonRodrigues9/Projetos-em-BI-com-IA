@@ -52,21 +52,23 @@ Identifiquei os meses de maior retração e expansão de resultado por meio da a
 
 ![Image](https://github.com/user-attachments/assets/f1d76627-6a93-4b3f-b596-b0f6d0fcd629)
 
-### 8. Projeto 8 - Recursos Humanos
+### 📈 Projeto 3: Dashboard de Gestão Estratégica de Recursos Humanos (RH)
 
-Este projeto teve como objetivo desenvolver um Dashboard de Recursos Humanos (RH) utilizando o Power BI, com base em dados fictícios. O dashboard foi elaborado para proporcionar uma visão clara e objetiva dos principais indicadores da área de RH, facilitando o acompanhamento da força de trabalho e apoiando a tomada de decisões estratégicas. Durante o desenvolvimento, foram aplicados recursos como segmentações, medidas DAX e gráficos interativos para enriquecer a análise.
+> **Objetivo:** Desenvolvi um painel executivo no Power BI focado na gestão de pessoas, permitindo acompanhar a dinâmica da força de trabalho, monitorar a retenção de talentos e analisar a distribuição demográfica e operacional da empresa.
 
-O Dashboard foi construído para responder às seguintes perguntas de negócio:
+#### 🛠️ Funcionalidades e Etapas Técnicas
+* **Modelagem de Dados & DAX:** Criei medidas calculadas em DAX para mensurar os indicadores fundamentais de RH:
+  * **Headcount & Movimentação:** Acompanhamento do total de contratações, demissões e funcionários ativos.
+  * **Taxa de Turnover:** Cálculo da rotatividade de colaboradores para apoiar estratégias de retenção.
+* **Design & Análise Visual:**
+  * **Árvore de Decomposição (Decomposition Tree):** Implementei o visual IA para detalhar a distribuição de funcionários ativos por cargos (Estagiário, Analista, Coordenador, etc.) e áreas (Administrativo, Comercial, Operações, etc.)[cite: 7].
+  * **Distribuição Geográfica e Demográfica:** Construí visuais focados na alocação por cidades e na proporção por gênero[cite: 7].
+  * **Análise Temporal:** Acompanhamento gráfico da evolução das contratações ao longo do período[cite: 7].
 
-Pergunta 1 – Quantos funcionários estão atualmente ativos na empresa?
-
-Pergunta 2 – Qual foi o total de contratações e demissões ao longo do período analisado?
-
-Pergunta 3 – Qual é a taxa de turnover da empresa?
-
-Pergunta 4 – Como estão distribuídos os colaboradores por cidade, gênero, cargo e área de atuação?
-
-Este projeto reforça a importância da visualização de dados aplicada ao RH, promovendo maior transparência na gestão de pessoas e contribuindo para decisões mais estratégicas e alinhadas com os objetivos da organização.
+#### 💡 Insights do Negócio
+* Identifiquei padrões de retenção e gargalos por área através da decomposição de cargos e departamentos[cite: 7].
+* Mapeei as principais praças de alocação de talentos e a distribuição demográfica da empresa[cite: 7].
+* Apoiei a tomada de decisões estratégicas para planejamento de headcount, recrutamento e gestão de pessoas.
 
 ![Image](https://github.com/user-attachments/assets/a0b2dbf5-c385-40ae-8785-63fd0d6f4b3f)
 
