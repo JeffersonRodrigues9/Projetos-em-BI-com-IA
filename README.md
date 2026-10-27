@@ -32,21 +32,6 @@ Tabela matricial hierárquica (Tipo/Componente/Ano) para análise temporal.   Us
 
 ![Image](https://github.com/user-attachments/assets/c164942d-5bcf-42c1-9c8b-dda631249243)
 
-### 2. Projeto 2 - Análise de Dados do Mercado de Ações.
-
-Neste Mini-Projeto, desenvolvi um Dashboard Analítico do Mercado de Ações, explorando duas funcionalidades avançadas do Power BI: a Narrativa Inteligente e a Time Intelligence (manipulação de data). Utilizei dados reais extraídos publicamente do portal da NASDAQ, que incluem diversas colunas com informações sobre o preço e o volume de negociação das ações no mercado. Para a análise, selecionei os dados de cinco empresas: IBM, Microsoft, Oracle, Tesla e Walmart."
-
-O Dashboard foi desenvolvido para responder às seguintes perguntas de negócio e atender às especificações definidas:
-
-- Qual o total de volume negociado de ações ao longo do tempo para as cinco empresas analisadas? A análise deve permitir a escolha de uma única empresa ou a combinação de várias empresas.
-
-- Qual o valor médio de abertura (Open), mais alto (High), mais baixo (Low) e de fechamento (Close) das ações para todas as empresas, considerando todos os meses do período analisado (1 ano no nosso exemplo)? A análise deve ser apresentada em formato de tabela e permitir a seleção de uma única empresa ou uma combinação delas.
-
-- Qual a variação da média do valor de fechamento (Close) das ações ao longo do tempo, mês a mês? A análise deve possibilitar a seleção de uma única empresa ou um grupo de empresas.
-
-- Utilizar a funcionalidade de Narrativa Inteligente para destacar e explicar as principais características e tendências nos dados.
-
-![Image](https://github.com/user-attachments/assets/71906de4-ecd9-42d2-b541-6a56f577c440)
 
 ### 3. Projeto 3 - Dashboard Analítico de vendas Globais
 
