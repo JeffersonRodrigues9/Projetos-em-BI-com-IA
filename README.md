@@ -33,37 +33,6 @@ Tabela matricial hierárquica (Tipo/Componente/Ano) para análise temporal.   Us
 ![Image](https://github.com/user-attachments/assets/c164942d-5bcf-42c1-9c8b-dda631249243)
 
 
-### 4. Projeto 4 - Análise de campanhas de Marketing
-Neste Projeto, tive a oportunidade de realizar uma introdução prática à análise de campanhas de Marketing utilizando o Power BI. Desenvolvi quatro dashboards interativos, com mais de dez elementos visuais, além de realizar diversas customizações, formatações e ajustes nos dados. Ao longo do projeto, explorei diferentes recursos do Power BI para otimizar a visualização e análise das informações. Os dados utilizados foram previamente preparados e representam informações sobre clientes e campanhas de Marketing de uma empresa fictícia.
-
-Neste Projeto, os relatórios foram organizados em quatro principais visões:
-
-Visão do Cliente
-
-Visão do Comportamento de Compra do Cliente
-
-Visão da Performance das Campanhas de Marketing
-
-Visão dos Padrões de Compra no Ponto de Venda (País)
-
-Para cada visão, foram analisadas as variáveis relevantes, criados gráficos e medidas, extraídas métricas e realizados cruzamentos de dados, com o objetivo de fornecer aos tomadores de decisão uma visão abrangente sobre o perfil dos clientes, os padrões de compra e a eficácia das campanhas de Marketing.
-
-### 4.1 Dashboard - Visão do Cliente
-
-![Image](https://github.com/user-attachments/assets/7225cc9a-acd0-4706-b17b-a3a35ac752cd)
-
-### 4.2 Dashboard - Visão do comportamento de compra do cliente
-
-![Image](https://github.com/user-attachments/assets/d7dedd77-ef3b-4bd7-a821-9144836c1cad)
-
-### 4.3  Dashboard - Visão da Performance das Campanhas de Marketin
-
-![Image](https://github.com/user-attachments/assets/22dfd3d1-4092-403e-9e3c-d0bce548ffb5)
-
-### 4.4 Dashboard - Visão dos Padrões de Compra no Ponto de Venda (País)
-
-![Image](https://github.com/user-attachments/assets/ed52f69a-8220-436d-aff0-0e61411f7848)
-
 ### 5. Projeto 5 - Análise de dados de Recursos Humanos
 
 Este Projeto ofereceu uma introdução à análise de dados de Recursos Humanos (RH) utilizando o Power BI, com base em dados fictícios. Ao longo do projeto, explorei diversas funcionalidades e recursos do Power BI, como a criação de tabelas de medidas e colunas condicionais, ampliando as possibilidades de análise e visualização dos dados.
