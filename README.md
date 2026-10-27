@@ -33,32 +33,6 @@ Tabela matricial hierárquica (Tipo/Componente/Ano) para análise temporal.   Us
 ![Image](https://github.com/user-attachments/assets/c164942d-5bcf-42c1-9c8b-dda631249243)
 
 
-### 5. Projeto 5 - Análise de dados de Recursos Humanos
-
-Este Projeto ofereceu uma introdução à análise de dados de Recursos Humanos (RH) utilizando o Power BI, com base em dados fictícios. Ao longo do projeto, explorei diversas funcionalidades e recursos do Power BI, como a criação de tabelas de medidas e colunas condicionais, ampliando as possibilidades de análise e visualização dos dados.
-
-O Dashboard criado foi desenvolvido para responder às seguintes perguntas de negócio, atendendo a especificações específicas:
-
-- Pergunta 1 - Qual o total de funcionários atualmente na empresa?
-
-- Pergunta 2 - Qual o tempo médio de experiência dos funcionários (em anos)?
-
-- Pergunta 3 - Qual o total e o percentual de funcionários por gênero (masculino e feminino)?
-
-- Pergunta 4 - Qual a média salarial mensal dos funcionários?
-
-- Pergunta 5 - Qual o total de funcionários por função?
-
-- Pergunta 6 - Qual o percentual de funcionários disponíveis para realizar hora extra?
-
-- Pergunta 7 - Qual o nível de envolvimento dos funcionários no trabalho, considerando as categorias: Ruim, Baixo, Médio e Alto?
-
-Embora não esteja visível no Dashboard, é necessário calcular o seguinte: Qual o total e o percentual de funcionários que devem ser considerados para promoção? Para isso, deve-se aplicar a regra baseada na coluna 'Anos Desde a Última Promoção': se o funcionário tiver 5 anos ou mais desde a última promoção, ele deve ser considerado para promoção; caso contrário, não será considerado no momento
-
-![Image](https://github.com/user-attachments/assets/063088e6-8783-48ff-afd6-008fe88a12e1)
-
-### 6. Projeto 6 - 
-
 ### 7. Projeto 7 - Análise de dados de um projeto Financeiro
 
 Este projeto teve como objetivo desenvolver um Dashboard Financeiro utilizando o Power BI, com base em dados fictícios de cinco instituições bancárias: SAFRA, Nubank, Santander, Bradesco e Itaú. Durante o desenvolvimento, foram utilizadas funcionalidades como criação de medidas DAX, segmentações interativas e gráficos dinâmicos, com o intuito de facilitar a análise e interpretação dos dados financeiros ao longo do ano.
