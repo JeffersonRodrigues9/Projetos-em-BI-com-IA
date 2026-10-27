@@ -10,7 +10,7 @@ Modelagem de Dados & DAX: Criação de modelos relacionais performáticos (Star 
 
 Engenharia & Automação com Python: Uso de scripts para automação de rotinas de dados, manipulação avançada e modelagem.
 
-Computação em Nuvem & IA (Cloud & GenAI): Aplicação de arquiteturas em Cloud e uso de modelos de linguagem como Gemini e Claude para geração automatizada de insights, automação de análises e apoio na tomada de decisão estratégica.
+Inteligência Artificial & Automação (GenAI): Utilização de modelos de linguagem como Gemini e Claude para apoio na geração automatizada de insights, suporte à análise de dados e otimização de processos de tomada de decisão estratégica.
 
 O objetivo deste portfólio é demonstrar a aplicação prática da Análise de Dados moderna, combinando a robustez do BI tradicional com o potencial transformador da Inteligência Artificial.
 
