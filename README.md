@@ -20,9 +20,11 @@ O objetivo deste portfólio é demonstrar a aplicação prática da Análise de 
 Transformar dados financeiros brutos e desestruturados num painel interativo no Power BI para suporte ao planeamento estratégico de receitas, despesas e margem de lucro.
 
 🛠️ Funcionalidades e Etapas TécnicasETL & Tratamento de Dados (Power Query): Limpeza, unpivot (pivotação de colunas), padronização de layouts e estruturação de tabelas para análise.Modelagem de Dados & DAX: Criação de modelo relacional e desenvolvimento de medidas em DAX para cálculo de indicadores-chave (KPIs) de performance:
+
 Receita Total (1,92 Mi)   
 Despesa Total (1,15 Mi)   
 Margem de Lucro (39,96%)   
+
 Análise Visual & Key Influencers:Distribuição de receitas por componente (Vendas, Licenciamento, Aluguéis, etc.).   Comparativo de despesas por centro de custo em relação à média geral.   
 Tabela matricial hierárquica (Tipo/Componente/Ano) para análise temporal.   Uso do visual Principais Influenciadores do Power BI para segmentação automática de comportamentos financeiros. 
 
