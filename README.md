@@ -16,20 +16,17 @@ O objetivo deste portfólio é demonstrar a aplicação prática da Análise de 
 
 ## Business Intelligence
 
-### 1. Projeto 1 - Análise de dados Financeiros
+### 📈 Projeto 1: Dashboard de Análise Financeira & PerformanceObjetivo
+Transformar dados financeiros brutos e desestruturados num painel interativo no Power BI para suporte ao planeamento estratégico de receitas, despesas e margem de lucro.
 
-Neste Projeto, explorei diversas funcionalidades do Power BI no contexto da área de finanças. Utilizei dados fictícios, que contavam com problemas de layout inseridos propositalmente. Durante o projeto, resolvi esses problemas aplicando diferentes funcionalidades do Power BI, incluindo o uso de pivô de tabela.
+🛠️ Funcionalidades e Etapas TécnicasETL & Tratamento de Dados (Power Query): Limpeza, unpivot (pivotação de colunas), padronização de layouts e estruturação de tabelas para análise.Modelagem de Dados & DAX: Criação de modelo relacional e desenvolvimento de medidas em DAX para cálculo de indicadores-chave (KPIs) de performance:
+Receita Total (1,92 Mi)   
+Despesa Total (1,15 Mi)   
+Margem de Lucro (39,96%)   
+Análise Visual & Key Influencers:Distribuição de receitas por componente (Vendas, Licenciamento, Aluguéis, etc.).   Comparativo de despesas por centro de custo em relação à média geral.   
+Tabela matricial hierárquica (Tipo/Componente/Ano) para análise temporal.   Uso do visual Principais Influenciadores do Power BI para segmentação automática de comportamentos financeiros. 
 
-Estudo de caso: Sua empresa deseja ter uma visão das receitas e despesas e solicitou que você criasse um Dashboard que permita analisar os seguintes indicadores financeiros:
-
-- Total de Receitas
-- Total de Despesas
-- Margem de Lucro
-- Total de Receitas Por Componente
-- Total de Despesas Por Componente em relação à média de Despesas
-- Total de Receitas e Despesas Por Componente e Por Ano, com a hierarquia Tipo/Componente.
-
-Além disso, a empresa precisa identificar os segmentos onde as receitas e despesas são maiores ou menores, a fim de traçar seu plano estratégico. Meu trabalho foi converter os dados brutos em insights valiosos, fornecendo o conhecimento necessário para apoiar a tomada de decisões por meio da análise de dados
+💡 Insights do NegócioIdentificação dos componentes de maior peso na receita bruta (ex: Vendas a liderar o faturamento).   Mapeamento dos principais ofensores de despesas (ex: Administrativo e Salários) em relação à linha média.   Segmentação estratégica para tomada de decisão focada em corte de custos e otimização da margem de lucro.   
 
 ![Image](https://github.com/user-attachments/assets/c164942d-5bcf-42c1-9c8b-dda631249243)
 
