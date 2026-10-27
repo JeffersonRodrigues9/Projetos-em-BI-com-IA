@@ -35,7 +35,7 @@ Tabela matricial hierárquica (Tipo/Componente/Ano) para análise temporal.   Us
 
 ### 📈 Projeto 2: Dashboard de Performance Financeira Multibancária
 
-> **Objetivo:** Desenvolvi um painel financeiro consolidado no Power BI para analisar o desempenho operacional de cinco grandes instituições bancárias (Nubank, Safra, Santander, Bradesco e Itaú), permitindo o acompanhamento de receitas, despesas, tributação e lucratividade ao longo do ano.
+Objetivo: Desenvolvi um painel financeiro consolidado no Power BI para analisar o desempenho operacional de cinco grandes instituições bancárias (Nubank, Safra, Santander, Bradesco e Itaú), permitindo o acompanhamento de receitas, despesas, tributação e lucratividade ao longo do ano.
 
 #### 🛠️ Funcionalidades e Etapas TécnicasModelagem de Dados & DAX:
 Design & Análise Visual:
