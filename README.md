@@ -40,12 +40,14 @@ Objetivo: Desenvolvi um painel financeiro consolidado no Power BI para analisar 
 🛠️ Funcionalidades e Etapas TécnicasModelagem de Dados & DAX: Criei medidas calculadas para consolidar as métricas essenciais e os KPIs executivos de receita, despesa, impostos e margem de lucro.
 Design & Análise Visual:
 
-Segmentação por Instituição:  Construí um filtro interativo com marcas bancárias para permitir análises individualizadas ou comparativas.
-Gráfico de Cascata (Waterfall Chart): Implementei a visualização da variação acumulada do lucro mensal ao longo do ano.   
-Análise Transacional: Destaquei o volume e a representatividade das movimentações via Pix.  
-Ticker Superior: Configurei a exibição dinâmica de variações percentuais por praças/regiões.   
+* **Segmentação por Instituição:**  Construí um filtro interativo com marcas bancárias para permitir análises individualizadas ou comparativas.
+* **Gráfico de Cascata (Waterfall Chart):** Implementei a visualização da variação acumulada do lucro mensal ao longo do ano.   
+* **Análise Transacional:** Destaquei o volume e a representatividade das movimentações via Pix.  
+* **Ticker Superior:** Configurei a exibição dinâmica de variações percentuais por praças/regiões.   
 
-💡 Insights do NegócioAcompanhei o impacto direto das despesas e da carga tributária sobre a margem final de lucro.   Mapeei a alta adoção do Pix como principal meio transacional e a sua representatividade nas movimentações operacionais.   Identifiquei os meses de maior retração e expansão de resultado por meio da análise de cascata financeira.   
+💡 Insights do NegócioAcompanhei o impacto direto das despesas e da carga tributária sobre a margem final de lucro.   
+Mapeei a alta adoção do Pix como principal meio transacional e a sua representatividade nas movimentações operacionais.   
+Identifiquei os meses de maior retração e expansão de resultado por meio da análise de cascata financeira.   
 
 ![Image](https://github.com/user-attachments/assets/f1d76627-6a93-4b3f-b596-b0f6d0fcd629)
 
