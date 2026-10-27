@@ -54,7 +54,7 @@ Identifiquei os meses de maior retração e expansão de resultado por meio da a
 
 ### 📈 Projeto 3: Dashboard de Gestão Estratégica de Recursos Humanos (RH)
 
-> **Objetivo:** Desenvolvi um painel executivo no Power BI focado na gestão de pessoas, permitindo acompanhar a dinâmica da força de trabalho, monitorar a retenção de talentos e analisar a distribuição demográfica e operacional da empresa.
+Objetivo: Desenvolvi um painel executivo no Power BI focado na gestão de pessoas, permitindo acompanhar a dinâmica da força de trabalho, monitorar a retenção de talentos e analisar a distribuição demográfica e operacional da empresa.
 
 #### 🛠️ Funcionalidades e Etapas Técnicas
 * **Modelagem de Dados & DAX:** Criei medidas calculadas em DAX para mensurar os indicadores fundamentais de RH:
