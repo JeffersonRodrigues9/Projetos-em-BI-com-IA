@@ -1,6 +1,18 @@
-# Projetos de Business Intelligence e Data Science utilizando Power BI
+# Projetos de Business Intelligence e Análise de Dados utilizando Power BI e IA
 
-Estes projetos foram apresentados durante minha capacitação em Microsoft Power BI para Business Intelligence e Data Science, através de projetos fornecidos pelos portais de capacitação profissional Alura, FIAP, Data Science Academy (DSA),  Xperium e Hashtag. Durante o curso, além de aprender a utilizar o Microsoft Power BI, também foram abordadas técnicas avançadas de Data Science para criação de modelos preditivos e extração de insights valiosos para a tomada de decisões. O conteúdo incluiu ainda o estudo de modelagem de dados, Linguagem DAX, e os processos de ETL e ELT, além da integração do Power BI com as linguagens R e Python, proporcionando uma compreensão completa da análise e manipulação de dados
+Este repositório reúne projetos pessoais e acadêmicos desenvolvidos durante minhas formações no SENAC e no SENAI, focados na construção de soluções fim a fim em Business Intelligence, Análise de Dados e Inteligência Artificial.
+
+Os projetos cobrem desde a ingestão e tratamento de dados até a visualização executiva e automação de insights. As principais abordagens técnicas incluem:
+
+Processos de ETL e ELT: Limpeza, transformação e carga de dados integrando Power BI, Excel e Python.
+
+Modelagem de Dados & DAX: Criação de modelos relacionais performáticos (Star Schema) e desenvolvimento de métricas avançadas em DAX.
+
+Engenharia & Automação com Python: Uso de scripts para automação de rotinas de dados, manipulação avançada e modelagem.
+
+Computação em Nuvem & IA (Cloud & GenAI): Aplicação de arquiteturas em Cloud e uso de modelos de linguagem como Gemini e Claude para geração automatizada de insights, automação de análises e apoio na tomada de decisão estratégica.
+
+O objetivo deste portfólio é demonstrar a aplicação prática da Análise de Dados moderna, combinando a robustez do BI tradicional com o potencial transformador da Inteligência Artificial.
 
 ## Business Intelligence
 
